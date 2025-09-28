@@ -1,0 +1,5 @@
+{
+  "name": "MMB VETMENTS Digitizer Tool V1",
+  "description": "An AI-powered tool that transforms photos of fabric embroidery into high-resolution, machine-ready digital blueprints. It automates pattern detection, color separation, and design cleanup to produce symmetrical, vector-like outputs.",
+  "requestFramePermissions": []
+}
